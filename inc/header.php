@@ -8,7 +8,7 @@
     <title>Site RP</title>
 </head>
 <body>
-    <div>
+    <ul>
         <li><a href="#home">Home</a></li>
         <li style="float:right"><a href="login.php">Se connecter</a></li>
 
